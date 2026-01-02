@@ -17,7 +17,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=flat-square" alt="Platform">
-  <img src="https://img.shields.io/github/last-commit/SoloWPM23/HelpdeskTicketClassificationSystem?style=flat-square" alt="Last Commit">
 </p>
 
 ---
