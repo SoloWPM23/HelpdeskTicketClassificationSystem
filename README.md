@@ -247,6 +247,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
   <img src="https://img.shields.io/github/stars/SoloWPM23/HelpdeskTicketClassificationSystem?style=social" alt="Stars">
   <img src="https://img.shields.io/github/forks/SoloWPM23/HelpdeskTicketClassificationSystem?style=social" alt="Forks">
 </p>
-
-</div></content>
-<parameter name="filePath">c:\Users\Victus\Downloads\dataLatihan\helpdesk-nlp\README.md
