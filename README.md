@@ -1,10 +1,37 @@
+<div align="center">
+
 # 📧 IT Support Email Manager
 
-A professional IT support ticket management system that automatically classifies incoming emails by priority using **DistilBERT NLP model**. Built with Python and Tkinter for a modern, user-friendly desktop experience.
+### 🤖 AI-Powered Email Priority Classification System
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+<p align="center">
+  <strong>Automatically classify IT support tickets by priority using DistilBERT NLP</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=flat-square" alt="Platform">
+  <img src="https://img.shields.io/github/last-commit/SoloWPM23/HelpdeskTicketClassificationSystem?style=flat-square" alt="Last Commit">
+</p>
+
+---
+
+<p align="center">
+  <a href="#-features">Features</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="#-how-to-use">Usage</a> •
+  <a href="#-machine-learning-model">ML Model</a> •
+  <a href="#-author">Author</a>
+</p>
+
+</div>
 
 ---
 
@@ -182,13 +209,52 @@ The model is trained on IT support ticket data and saved in `weight/best.pt`.
 
 ---
 
-## 📝 License
+## 🤝 Contributing
 
-This project is for educational purposes.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/SoloWPM23/HelpdeskTicketClassificationSystem/issues).
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ---
 
+## 📝 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+
 ## 👨‍💻 Author
 
-Developed as part of an NLP learning project for IT Support ticket automation.</content>
+<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love">
+
+### **SoloWPM23**
+
+<p>
+  <a href="https://github.com/SoloWPM23">
+    <img src="https://img.shields.io/badge/GitHub-SoloWPM23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <i>Developed as part of an NLP learning project for IT Support ticket automation</i>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Star this repository if you find it helpful! ⭐
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/SoloWPM23/HelpdeskTicketClassificationSystem?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/SoloWPM23/HelpdeskTicketClassificationSystem?style=social" alt="Forks">
+</p>
+
+</div></content>
 <parameter name="filePath">c:\Users\Victus\Downloads\dataLatihan\helpdesk-nlp\README.md
