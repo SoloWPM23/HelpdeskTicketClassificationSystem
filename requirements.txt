@@ -1,0 +1,13 @@
+# Core ML Dependencies
+torch>=2.0.0
+transformers>=4.30.0
+
+# Data Processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Protocol Buffer (specific version for compatibility)
+protobuf==3.20.3
+
+# Note: tkinter is included with Python standard library
+# No additional installation required for GUI
